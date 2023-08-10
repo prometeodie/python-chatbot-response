@@ -1,0 +1,5 @@
+C:\Users\Fran>cd "C:\Users\Fran\Desktop\portfolio Server"
+
+C:\Users\Fran\Desktop\portfolio Server>fastapi-env\Scripts\activate.bat
+
+(fastapi-env) C:\Users\Fran\Desktop\portfolio Server>uvicorn main:app
